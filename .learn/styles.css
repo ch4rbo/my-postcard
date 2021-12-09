@@ -1,0 +1,5 @@
+.top-card {
+    display: flex;
+    background-color: burlywood;
+    justify-content: space-between;
+}
